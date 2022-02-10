@@ -1,0 +1,19 @@
+{
+    "name": "ph-7/search-ai-php",
+    "autoload": {
+        "psr-4": {
+            "PH7\\SearchAi\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pierre-Henry Soria",
+            "email": "hi@ph7.me"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "siteorigin/openai-api": "^1.0",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
